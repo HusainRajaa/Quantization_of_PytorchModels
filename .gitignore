@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+venv_tf213/
+
+# Large data directories
+archive/
+data/
+.data/
+
+# Model files
+
+*.onnx
+
+# Saved model directories
+*_saved_mode
+
+# System files
+.DS_Store
+byteorder
+
+# Python cache
+__pycache__/
+*.pyc
