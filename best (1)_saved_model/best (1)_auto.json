@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "operations": [
+    {
+      "op_name": "wa/model.10/Resize",
+      "param_target": "attributes",
+      "param_name": "coordinate_transformation_mode",
+      "values": "pytorch_half_pixel"
+    }
+  ],
+  "_comment": "Auto-generated replacement for best (1)",
+  "_generation_reason": "conversion_error"
+}
